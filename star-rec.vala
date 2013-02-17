@@ -7,6 +7,9 @@
 	./valac 3
 	will print 3 rows.
 
+	this programs uses recursion for printing the rows.
+	if you notice carefully all the variables used are never changed.
+
 	Author: Akshay Shekher<voldyman666@gmail.com>
 */
 
